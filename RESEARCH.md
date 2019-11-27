@@ -17,6 +17,11 @@
 - ruby-dev
 - python-dev
 - php5-dev
+- bison
+- flex
+- ruby-dev
+- python-dev
+- php5-dev
 
 ### Troubleshooting
 - `event.h`: No such file or directory:  
