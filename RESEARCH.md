@@ -1,4 +1,4 @@
-## How to build
+## RESEARCH
 
 ### Prerequisites
 - autoconf
@@ -22,6 +22,14 @@
 - ruby-dev
 - python-dev
 - php5-dev
+
+### To build and install
+```
+$ ./bootstrap.sh
+$ ./configure --with-libevent
+$ make
+$ sudo make install
+```
 
 ### Troubleshooting
 - `event.h`: No such file or directory:  
