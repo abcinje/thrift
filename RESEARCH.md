@@ -17,11 +17,6 @@
 - ruby-dev
 - python-dev
 - php5-dev
-- bison
-- flex
-- ruby-dev
-- python-dev
-- php5-dev
 
 ### To build and install
 ```
