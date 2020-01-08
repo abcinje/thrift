@@ -14,9 +14,9 @@
 - libgtest-dev
 - bison
 - flex
-- ruby-dev
-- python-dev
-- php5-dev
+- openjdk-8-jdk
+- openjdk-8-jre
+- ant
 
 ### To build and install
 ```
